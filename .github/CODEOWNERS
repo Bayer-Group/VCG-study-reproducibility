@@ -1,0 +1,5 @@
+# These owners will be the default owners for everything in
+# the repo. Unless a later match takes precedence,
+# @chvieira2 and @AlexanderGurjanov will be requested for
+# review when someone opens a pull request.
+*      @chvieira2 @AlexanderGurjanov

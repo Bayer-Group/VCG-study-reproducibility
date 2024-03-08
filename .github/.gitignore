@@ -1,0 +1,57 @@
+# Internal archives
+/Archives
+
+# Large files from ViCoG data
+/Data/Original/ViCoG
+
+# Internal dose-group data and confidential data
+/Data/Derived
+/Data/Original/legacy_studies
+/Data/Original/HCD_NHP
+/Data/Original/HCD_RAT_no_TRTV_control
+/Data/Original/HCD_with_longer_studies
+/Data/ViCoG_LBTESTCD.xlsx
+/Data/ViCoG_OM_vals.xlsx
+
+# Image results
+/Results
+
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# User-specific files
+.Ruserdata
+
+# Example code in package build process
+*-Ex.R
+
+# Output files from R CMD build
+/*.tar.gz
+
+# Output files from R CMD check
+/*.Rcheck/
+
+# RStudio files
+.Rproj.user/
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
+
+# knitr and R markdown default cache directories
+*_cache/
+/cache/
+
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
+
+# R Environment Variables
+.Renviron

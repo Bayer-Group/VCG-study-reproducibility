@@ -1,0 +1,562 @@
+LBTEST,LBTESTCD,LBSPEC
+Thyroxine,T4,SERUM
+Calcium Oxalate Crystals,CYCAOXA,URINE
+Ery. Mean Corpuscular Hemoglobin,MCH,PLASMA
+Creatinine Excretion Rate,CREATEXR,URINE
+Epithelial Casts,CSEPI,URINE
+Urobilinogen,UROBIL,URINE
+Bacteria,BACT,URINE
+Neutrophils,NEUT,PLASMA
+Others4,OTHERS4,URINE
+Creatinine,CREAT,URINE
+Uric Acid Crystals,CYURIAC,URINE
+Cholesterol,CHOL,SERUM
+Erythrocytes,RBC,WHOLE BLOOD
+Cholesterol,CHOL,Serum Cat
+Creatine Kinase,CK,Serum Cat
+Platelets,PLAT,WHOLE BLOOD
+Erythrocytes Distribution Width,RDW,WHOLE BLOOD
+Potassium,K,PLASMA
+Phosphate,PHOS,WHOLE BLOOD
+Triiodothyronine,T3,WHOLE BLOOD
+HDL-Cholesterol,HDL,SERUM
+Urea,UREA,Serum Rabbit
+Phosphate,PHOS,Serum Rabbit
+Albumin,ALB,Serum Rabbit
+N-DEM,LB-NDE,LIVER
+P450,LB-CYT,LIVER
+HYPOCHR-M,HYPOCR-M,Blood smears
+Spherocytes,SPHERO,Blood smears
+Howell-Jolly Bodies,JOLLY-K.,Blood smears
+Myeloblasts,MYBLA,Blood smears
+Promyelocytes,PROMY,Blood smears
+Potassium,K,URINE
+K-B,B-K,URINE
+Unclassified Crystals,CYUNCLA,URINE
+LyTyp10,LYTYP10,WHOLE BLOOD
+LyTyp22,LYTYP22,WHOLE BLOOD
+LyTyp28,LYTYP28,WHOLE BLOOD
+LyTyp31,LYTYP31,WHOLE BLOOD
+Neutrophil granulo immature,BM04,Neutrophil granulo immature
+Basophil granulo mature,BM10,Basophil granulo mature
+C Reactive Protein,CRP,SERUM
+Platelets,PLAT,PLASMA
+Glycocholic Acid,GCHT,PLASMA
+Glycochenodeoxycholic acid,GCDCA,PLASMA
+tauromuricholic acid-alpha&beta sum,TMCA,PLASMA
+Taurocholic acid,TCA,PLASMA
+Testosteron,TEST,Plasma EDTA
+VOL per kg,U-KVOL,URINE
+CREA*KVOL,U-CREKVO,URINE
+pH-Electr-b,BPH-E,URINE
+CrossLaps,CTX-1,Plasma EDTA
+ImFun01,IMFUN01,WHOLE BLOOD
+ImFun28,IMFUN28,WHOLE BLOOD
+ImFun24,IMFUN24,WHOLE BLOOD
+b conjugated bilirubin,BCBIL,SERUM
+NAG/CREA,U-NAG/CR,URINE
+Bilirubin,BILI,PLASMA
+"Lymphocytes Atypical, Reactive",ATYP,PLASMA
+Basophils,BASO,PLASMA
+Lymphocytes/Leukocytes,LYMLE,WHOLE BLOOD
+Neutrophils/Leukocytes,NEUTLE,WHOLE BLOOD
+Lymphocytes,LYM,WHOLE BLOOD
+Leukocytes,WBC,WHOLE BLOOD
+Urea,UREA,SERUM
+Nucl Shad,SMDGCE,PLASMA
+Total Plasma Cells,PLSTCE,PLASMA
+Metamyelocytes,METAMY,PLASMA
+Glutamate Dehydrogenase,GLDH,Serum Cat
+ALD,ALD,Liver Bio Chemie
+Glucose,GLUC,PLASMA
+Albumin/Globulin,ALBGLOB,PLASMA
+Lipase,LIPASE,SERUM
+7-Ethoxyresorufin deethylase,EROD,LIVER
+Globulin,GLOBUL,PLASMA
+Amorphous Phosphate Crystals,CYAMPPH,URINE
+Glucose,GLUC,WHOLE BLOOD
+Thyroxine,T4,WHOLE BLOOD
+LyTyp08,LYTYP08,WHOLE BLOOD
+LyTyp24,LYTYP24,WHOLE BLOOD
+LyTyp25,LYTYP25,WHOLE BLOOD
+LyTyp30,LYTYP30,WHOLE BLOOD
+Granulopoiesis,BM20,Granulopoiesis
+INSU-Ratte,INSU-RA,PLASMA
+UDP-Glucuronyltransferase,UGT,UDP-Glucuronyltransferase
+Heinz-B.,HIK,PLASMA
+Bili-c,BILIC-TI,SERUM
+Blasts,BLAST,WHOLE BLOOD
+Type I Collagen C-Telopeptides,CTXI,SERUM
+Muricholic acid-omega,MCAO,PLASMA
+Chloride,CL,Serum Mouse
+Troponin I,TROPONI,SERUM
+Nucleated Erythrocytes,RBCNUC,WHOLE BLOOD
+ImFun22,IMFUN22,WHOLE BLOOD
+b urinary protein quantitative,BUPROTQ,URINE
+b UGLUCQ corrected for CREA,BUGLUCQC,URINE
+Corticosterone (µg/l),CCS,Plasma EDTA
+Lipase,LIPASE,Research
+Calcium,CA,SERUM
+Microcytes,MICROCY,PLASMA
+Thrombocytes,THROMNUC,PLASMA
+Urothelial Cells,UROTHCE,URINE
+Glutamate Dehydrogenase,GLDH,SERUM
+Chloride,CL,SERUM
+Lactate Dehydrogenase,LDH,SERUM
+Albumin,ALB,SERUM
+Monocytes/Leukocytes,MONOLE,WHOLE BLOOD
+Large Unstained Cells/Leukocytes,LGLUCLE,WHOLE BLOOD
+Ery. Mean Corpuscular HGB Concentration,MCHC,WHOLE BLOOD
+Gamma Glutamyl Transferase,GGT,Serum Cat
+Globulin,GLOBUL,SERUM
+"Glutathione S-Transferase, Total",GST,Liver Bio Chemie
+Calcium Phosphate Crystals,CYCAPHOS,URINE
+"Protein, dipstick urine",UPROT,URINE
+Calcium,CA,URINE
+Protein,PROT,WHOLE BLOOD
+Lactate Dehydrogenase,LDH,Serum Rabbit
+ATYP-LY,ATYP-LY,Blood smears
+Kurloff Cells,KURLOFCE,Blood smears
+Toxic Granulation,TOXGRAN,Blood smears
+Sodium,SODIUM,URINE
+Cl-B,B-CL,URINE
+Unclassified Casts,CSUNCLA,URINE
+HDL-RD,HDL-RD,SERUM
+LyTyp33,LYTYP33,WHOLE BLOOD
+Blast cells,BM01,Blast cells
+BLEU-STIX,BLEU,URINE
+Cholic acid,COAC,PLASMA
+Muricholic acid-alpha,MCAA,PLASMA
+Hyodeoxycholic acid,HDCA,PLASMA
+Estradiol,EST-2,Plasma EDTA
+HDL-RD,HDL-RD,Research
+Calcium,CA,Serum Mouse
+ImFun03,IMFUN03,WHOLE BLOOD
+ImFun26,IMFUN26,WHOLE BLOOD
+b urinary glucose quantitative,BUGLUCQ,URINE
+NAG-Urine,U-NAG,URINE
+GGT/CREA,U-GGTC,URINE
+Aspartate Aminotransferase,AST,PLASMA
+Epithelial Cells,EPIC,URINE
+Ketones,KETONES,URINE
+Erythrocytes,RBC,URINE
+Triglycerides,TRIG,PLASMA
+Reticulocytes,RETI,PLASMA
+Creatinine,CREAT,PLASMA
+Cholesterol,CHOL,PLASMA
+Anisochromia,ANISOCHR,PLASMA
+Hypochromia,HPOCROM,PLASMA
+Bilirubin,BILI,SERUM
+Reticulocytes/Erythrocytes,RETIRBC,WHOLE BLOOD
+Basophils/Leukocytes,BASOLE,WHOLE BLOOD
+Hematocrit,HCT,WHOLE BLOOD
+MACRO-M,MACRO-M,PLASMA
+Activated Partial Thromboplastin Time,APTT,PLASMA
+Albumin/Globulin,ALBGLOB,Serum Cat
+Potassium,K,Serum Cat
+Sodium,SODIUM,Serum Cat
+Platelet Clumps,PLATCLMP,WHOLE BLOOD
+7-Ethoxycoumarin deethylase,ECOD,Liver Bio Chemie
+Sodium,SODIUM,PLASMA
+Nitrite,NITRITE,URINE
+Magnesium,MG,SERUM
+Erythrocyte Sedimentation Rate,ESR,BSG
+Albumin/Globulin Quotient,AGQ_C,SERUM
+Anisochromia,ANISOCHR,WHOLE BLOOD
+Creatine Kinase,CK,WHOLE BLOOD
+Urea,UREA,WHOLE BLOOD
+Protein per sampling period UVOL,UPROUVOC,URINE
+Creatinine,CREAT,Serum Rabbit
+Chloride,CL,Serum Rabbit
+Alkaline Phosphatase,ALP,Serum Rabbit
+Metamyelocytes,METAMY,Blood smears
+Total Plasma Cells,PLSTCE,Blood smears
+Na-B,B-NA,URINE
+LyTyp26,LYTYP26,WHOLE BLOOD
+LyTyp07,LYTYP07,WHOLE BLOOD
+Sediment Examination,SEDEXAM,URINE
+Chenodeoxycholic acid,CDCA,PLASMA
+Neutrophils Band Form,NEUTB,WHOLE BLOOD
+Fibroblast Growth Factor 23,FGF23,PLASMA
+Na*VOL-BW,U-NA-KVO,URINE
+N-terminal propetptide of type 1 procollagen,PINP,Plasma EDTA
+tartrate-resistant acid phosphatase 5b,TRACP5B,Plasma EDTA
+ImFun07,IMFUN07,WHOLE BLOOD
+LDH*UVOL,ULDH-UVO,URINE
+Ery. Mean Corpuscular HGB Concentration,MCHC,PLASMA
+Triple Phosphate Crystals,CYTRPHOS,URINE
+Volume,VOLUME,URINE
+Alkaline Phosphatase,ALP,PLASMA
+Erythrocytes,RBC,PLASMA
+Granular Casts,CSGRAN,URINE
+Glucose,GLUC,SERUM
+Triiodothyronine,T3,PLASMA
+Gamma Glutamyl Transferase,GGT,PLASMA
+Basophils,BASO,WHOLE BLOOD
+Alanine Aminotransferase,ALT,SERUM
+Large Unstained Cells,LGUNSCE,WHOLE BLOOD
+Creatinine,CREAT,SERUM
+Hypersegmented Cells,HYPSEGCE,PLASMA
+Neutrophils Band Form,NEUTB,PLASMA
+Triglycerides,TRIG,Serum Cat
+Magnesium,MG,Serum Cat
+Hemoglobin Distribution Width,HDW,WHOLE BLOOD
+Casts,CASTS,URINE
+Magnesium,MG,PLASMA
+PROT-Lav.,LV-PROT,LUNG
+Microcytes,MICROCY,WHOLE BLOOD
+Urate,URATE,URINE
+Glutamate Dehydrogenase,GLDH,WHOLE BLOOD
+Gamma Glutamyl Transferase,GGT,WHOLE BLOOD
+Transparent droplets of different size,TRANDROP,URINE
+Thyrotropin,TSH,WHOLE BLOOD
+Aspartate Aminotransferase,AST,Serum Rabbit
+Cholesterol,CHOL,Serum Rabbit
+Triglycerides,TRIG,Serum Rabbit
+Alanine Aminotransferase,ALT,Serum Rabbit
+Glutamate Dehydrogenase,GLDH,Serum Rabbit
+Neutrophils Band Form,NEUTB,Blood smears
+"Neutrophils, Segmented",NEUTSG,Blood smears
+LyTyp32,LYTYP32,WHOLE BLOOD
+Erythropoiesis immature,BM02,Erythropoiesis immature
+Mast cells,BM15,Mast cells
+Eosinophil granulo immature,BM07,Eosinophil granulo immature
+b C-reactive protein,BCRP,SERUM
+Promyelocytes,PROMY,WHOLE BLOOD
+"Parathyroid Hormone, Intact",PTHI,PLASMA
+b LDL cholesterol,BLDLC,SERUM
+Thyroxine,T4,PLASMA
+Sodium,SODIUM,Serum Mouse
+Myeloid/Erythroid Ratio,MYPCERPC,BONE MARROW
+ImFun27,IMFUN27,WHOLE BLOOD
+P-Amylase,AMYLASE,Research
+pH,PH,URINE
+Others1,OTHERS1,URINE
+Yeast Cells,YEAST,URINE
+b amylase,BAMYL,SERUM
+b lipase,BLIP,SERUM
+Alkaline Phosphatase,ALP,SERUM
+Monocytes,MONO,WHOLE BLOOD
+Eosinophils/Leukocytes,EOSLE,WHOLE BLOOD
+Reticulocytes,RETI,WHOLE BLOOD
+Thrombocytes,THROMNUC,WHOLE BLOOD
+ATYP-LY,ATYP-LY,PLASMA
+Myelocytes,MYCY,PLASMA
+Pseudo eosinophile reticulum cells,PSEUDEOS,PLASMA
+Target Cells,TRGTCE,PLASMA
+HYPERC-M,HYPERC-M,PLASMA
+"Neutrophils, Segmented",NEUTSG,PLASMA
+Spherocytes,SPHERO,PLASMA
+Beta Globulin,GLOBB,SERUM
+Albumin,ALB,Serum Cat
+Alkaline Phosphatase,ALP,Serum Cat
+Lactate Dehydrogenase,LDH,Serum Cat
+Creatinine,CREAT,Serum Cat
+Phosphate,PHOS,URINE
+Bilirubin,BILI,WHOLE BLOOD
+Sodium,SODIUM,WHOLE BLOOD
+Protein per mmol Creatinine urine,UPROCRC,URINE
+Triglycerides,TRIG,LIVER
+Lactic Acid,LACTICAC,SERUM
+Basophilic Stippling,STIPBASO,Blood smears
+HYPERC-M,HYPERC-M,Blood smears
+Pseudo eosinophile reticulum cells,PSEUDEOS,Blood smears
+Poikilocytes,POIKILO,Blood smears
+Chloride,CL,URINE
+P-B,B-P,URINE
+Urea Nitrogen,UREAN,SERUM
+Lactat urine,U-LACTAT,URINE
+LyTyp23,LYTYP23,WHOLE BLOOD
+LyTyp13,LYTYP13,WHOLE BLOOD
+LyTyp29,LYTYP29,WHOLE BLOOD
+Neutrophil granulo intermed,BM05,Neutrophil granulo intermed
+Mitoses,BM17,Mitoses
+Reticulum cells,BM16,Reticulum cells
+Lyphocytes total,BM12,Lyphocytes total
+P-Amylase,AMYLASE,PLASMA
+Glucose,GLUC,Research
+LACTAT,LACT-VB,LACT
+MPC,MPC,PLASMA
+Lithocholic acid,LCA,PLASMA
+Neutrophils Band Form/Leukocytes,NEUTBLE,WHOLE BLOOD
+EPO,EPO,Plasma Cat
+Osteocalcin,OC,Plasma EDTA
+ImFun08,IMFUN08,WHOLE BLOOD
+ImFun25,IMFUN25,WHOLE BLOOD
+Hemoglobin  A1c %,HBA1C%,PLASMA
+GGT*UVOL,U-GGTUVO,URINE
+LDH/CREA,U-LDH/CR,URINE
+Round Epithelial Cells,EPIROCE,URINE
+Occult Blood,OCCBLD,URINE
+Protein,PROT,PLASMA
+Leukocytes,WBC,URINE
+Ketone Bodies,KETONEBD,URINE
+Albumin/Globulin,ALBGLOB,SERUM
+Protein,PROT,Serum Cat
+P-Amylase,AMYLASE,Serum Cat
+Platelet Distribution Width,PDW,WHOLE BLOOD
+Epoxide Hydrolase,EH,Liver Bio Chemie
+Free HB,FRHB,PLASMA
+P-Amylase,AMYLASE,SERUM
+UDP-Glucuronyltransferase,UGT,LIVER
+"Glutathione S-Transferase, Total",GST,LIVER
+GGT Lavage,LAV-GGT,LUNG
+Turbidity,TURB,URINE
+Macrocytes,MACROCY,WHOLE BLOOD
+Bilirubin,BILI,Serum Rabbit
+Monocytes,MONO,Blood smears
+Ca-B,B-CA,URINE
+Osmolality,OSMLTY,SERUM
+LyTyp06,LYTYP06,WHOLE BLOOD
+LyTyp12,LYTYP12,WHOLE BLOOD
+LyTyp11,LYTYP11,WHOLE BLOOD
+Neutrophil granulo mature,BM06,Neutrophil granulo mature
+Erythro/Granulopoiesis,BM21,Erythro/Granulopoiesis
+TFER,TFER,PLASMA
+Inorganic phosphate quantitative urine,U_P,URINE
+BNIT-STIX,BNIT,URINE
+Glycolithocholic acid,GLCA,PLASMA
+Ursodeoxycholic acid,UDCA,PLASMA
+Taurochenodeoxycholic acid,TCDCA,PLASMA
+Promyelocytes/Leukocytes,PROMYLE,WHOLE BLOOD
+LDL-RD,LDL-RD,Research
+ImFun21,IMFUN21,WHOLE BLOOD
+ImFun02,IMFUN02,WHOLE BLOOD
+Hemoglobin A1c standardized,HBA1C_C,PLASMA
+LDH Urine,U-LDH,URINE
+NAG*UVOL,UNAG-UVO,URINE
+Hyaline Casts,CSHYAL,URINE
+Phosphate,PHOS,PLASMA
+WBC Casts,CSWBC,URINE
+Hyperchromia,HYPERCHR,PLASMA
+Urea,UREA,PLASMA
+Monocytes,MONO,PLASMA
+Eosinophils,EOS,PLASMA
+Albumin,ALB,PLASMA
+Creatine Kinase,CK,SERUM
+Ery. Mean Corpuscular Hemoglobin,MCH,WHOLE BLOOD
+Ery. Mean Corpuscular Volume,MCV,WHOLE BLOOD
+Polychromasia,POLYCHR,PLASMA
+MICROC-M,MICROC-M,PLASMA
+Phosphate,PHOS,Serum Cat
+UDP-Glucuronyltransferase,UGT,Liver Bio Chemie
+Hemoglobin,HGB,URINE
+Urea Nitrogen,UREAN,PLASMA
+Alpha Globulin,GLOBA,SERUM
+Carnitine Acetyl Transferase,CARNITAT,LIVER
+PLIP-Lav.,LAV-PLIP,LUNG
+MET-HB,MET-HB,PLASMA
+Hypochromia,HPOCROM,WHOLE BLOOD
+Cholesterol,CHOL,WHOLE BLOOD
+"Lymphocytes Atypical, Reactive",ATYP,WHOLE BLOOD
+Alanine Aminotransferase,ALT,WHOLE BLOOD
+Calcium,CA,Serum Rabbit
+Lymphocytes,LYM,Blood smears
+MICROC-M,MICROC-M,Blood smears
+Nucleated Erythrocytes,RBCNUC,Blood smears
+AGQ/Ra,AGQ/RA,PLASMA
+LDL-RD,LDL-RD,SERUM
+LyTyp34,LYTYP34,WHOLE BLOOD
+LyTyp27,LYTYP27,WHOLE BLOOD
+LyTyp01,LYTYP01,WHOLE BLOOD
+Erythropoiesis mature,BM03,Erythropoiesis mature
+Megakaryocytes,BM14,Megakaryocytes
+"Glutathione S-Transferase, Total",GST,Glutathione-S-Transferase
+7-Ethoxycoumarin deethylase,ECOD,7-Ethoxycoumarin Deethylase
+Lymphocytes Atypical,LYMAT,WHOLE BLOOD
+LACTAT,LACT-VB,PCA/TCA
+Phosphate Crystals,CYPHOS,URINE
+HDL-RD,HDL-RD,PLASMA
+Taurolithocholic acid,TLCA,PLASMA
+Complement hemolytic activity,CH50,SERUM
+Metamyelocytes/Leukocytes,METAMYLE,WHOLE BLOOD
+K*VOL-BW,U-K-KVOL,URINE
+GGT/CREA-B,B-GGT/CR,URINE
+Albumin quantitative urine,U_ALB,URINE
+b free bilirubin,BFBIL,SERUM
+Protein,PROT,URINE
+Others2,OTHERS2,URINE
+Specific Gravity,SPGRAV,URINE
+Alanine Aminotransferase,ALT,PLASMA
+Anisocytes,ANISO,PLASMA
+Triglycerides,TRIG,SERUM
+Howell-Jolly Bodies,JOLLY-K.,PLASMA
+Poikilocytes,POIKILO,PLASMA
+HYPOCHR-M,HYPOCR-M,PLASMA
+T4-MON,T4-MON,SERUM
+Triiodothyronine,T3,SERUM
+Aspartate Aminotransferase,AST,Serum Cat
+Calcium,CA,Serum Cat
+Lipase,LIPASE,Serum Cat
+Oxalate,OXALATE,URINE
+Glutamate Dehydrogenase,GLDH,PLASMA
+Spec Grav,B-GEW,URINE
+7-Ethoxycoumarin deethylase,ECOD,LIVER
+LDH-Lav.,LAV-LDH,LUNG
+Amorphous Urate Crystals,CYAMPURT,URINE
+Potassium,K,WHOLE BLOOD
+Protein,PROT,Serum Rabbit
+Creatine Kinase,CK,Serum Rabbit
+O-DEM,LB-ODE,LIVER
+Myelocytes,MYCY,Blood smears
+Nucl Shad,SMDGCE,Blood smears
+Target Cells,TRGTCE,Blood smears
+LDH/CREA-B,B-LDH/CR,URINE
+Prot/Crea-B,BPROT/CR,URINE
+LyTyp09,LYTYP09,WHOLE BLOOD
+Monocyte mature,BM11,Monocyte mature
+Erythropoiesis,BM19,Erythropoiesis
+Eosinophil granulo mature,BM08,Eosinophil granulo mature
+INSU-Ratte,INSU-RA,Plasma EDTA
+Carnitine Acetyl Transferase,CARNITAT,Carnitine Acetyl Transferase
+b urinary creatinine,BUCREA,URINE
+B-SG-STIX,B-SG,URINE
+Taurodeoxycholic acid,TDCA,PLASMA
+Cortisol,COR,Plasma EDTA
+b HDL cholesterol,BHDLC,SERUM
+Prothrombin Time,PT,WHOLE BLOOD
+Fibrinogen,FIBRINO,WHOLE BLOOD
+Anti-KLH IgG,AKLHG,SERUM
+Urine Albumine per Creatinine,UALBCRC,URINE
+Glucose,GLUC,URINE
+Ery. Mean Corpuscular Volume,MCV,PLASMA
+Potassium,K,SERUM
+Cellular Casts,CSCELL,URINE
+Others3,OTHERS3,URINE
+Spermatozoa,SPERM,URINE
+Eosinophils,EOS,WHOLE BLOOD
+Aspartate Aminotransferase,AST,SERUM
+Granulocytes/Mononuclear Cells,GRANMNC,WHOLE BLOOD
+Neutrophils,NEUT,WHOLE BLOOD
+Myeloblasts,MYBLA,PLASMA
+Prothrombin Time,PT,PLASMA
+Toxic Granulation,TOXGRAN,PLASMA
+Fibrinogen,FIBRINO,PLASMA
+Kurloff Cells,KURLOFCE,PLASMA
+D-Dimer,D-DIMER,PLASMA
+Chloride,CL,Serum Cat
+Alanine Aminotransferase,ALT,Serum Cat
+Glucose,GLUC,Serum Cat
+7-Ethoxyresorufin deethylase,EROD,Liver Bio Chemie
+Carnitine Acetyl Transferase,CARNITAT,Liver Bio Chemie
+Squamous Transitional Epithelial Cells,EPISQTCE,URINE
+Color,COLOR,URINE
+Urea,UREA,URINE
+Hyperchromia,HYPERCHR,WHOLE BLOOD
+Calcium,CA,WHOLE BLOOD
+Glucose whole blood,GLUC_WB,SERUM
+MACRO-M,MACRO-M,Blood smears
+Polychromasia,POLYCHR,Blood smears
+NAG-B,B-NAG,URINE
+BHBS,BHBS,PCA/TCA
+LyTyp03,LYTYP03,WHOLE BLOOD
+Unidentified cells,BM18,Unidentified cells
+Plasma cells,BM13,Plasma cells
+Iron,IRON,SERUM
+Calcium quantitative  urine,U_CA,URINE
+Deoxycholic acid,DCA,PLASMA
+Progesteron,PROG,Plasma EDTA
+Urea*VOL,UREAVO,URINE
+GGT-B,B-GGT,URINE
+ImFun05,IMFUN05,WHOLE BLOOD
+ImFun23,IMFUN23,WHOLE BLOOD
+ImFun04,IMFUN04,WHOLE BLOOD
+Amorphous Sediment,AMORPHSD,URINE
+Creatine Kinase,CK,PLASMA
+Protein/Creatinine,PROTCRT,URINE
+Sodium,SODIUM,SERUM
+Thyrotropin,TSH,SERUM
+Leukocytes,WBC,PLASMA
+Bilirubin,BILI,URINE
+Lactate Dehydrogenase,LDH,PLASMA
+Macrocytes,MACROCY,PLASMA
+Mucous Threads,MUCTHR,URINE
+Hemoglobin,HGB,PLASMA
+Lymphocytes,LYM,PLASMA
+No Abnormalities Detected Sediment,SD_NAD,URINE
+Hemoglobin,HGB,WHOLE BLOOD
+Protein,PROT,SERUM
+Others,SONSTIGE,PLASMA
+Basophilic Stippling,STIPBASO,PLASMA
+Nucleated Erythrocytes,RBCNUC,PLASMA
+b alpha globulin,BAGLOB,SERUM
+Gamma Globulin,GLOBG,SERUM
+Osmolality,OSMLTY,URINE
+Thrombin Time,TT,PLASMA
+Phosphate,PHOS,SERUM
+Adrenaline in urine,UADR,URINE
+Urea,UREA,Serum Cat
+Fe,FE,Serum Cat
+Platelet Hematocrit,PLATHCT,WHOLE BLOOD
+Calcium,CA,PLASMA
+Specimen Appearance,APPEAR,URINE
+Fe,FE,PLASMA
+S-Bile Acids,SGAL,SERUM
+Fe,FE,SERUM
+Direct Bilirubin,BILDIR,URINE
+Chloride,CL,WHOLE BLOOD
+Creatinine,CREAT,WHOLE BLOOD
+LDL-Cholesterol,LDL,SERUM
+Potassium,K,Serum Rabbit
+Gamma Glutamyl Transferase,GGT,Serum Rabbit
+Others,SONSTIGE,Blood smears
+Eosinophils,EOS,Blood smears
+Basophils,BASO,Blood smears
+NAG/CREA-B,B-NAG/CR,URINE
+LDH-B,B-LDH,URINE
+Crystals,CRYSTALS,URINE
+Clarity,CLARITY,URINE
+HBA1C,HBA1C,PLASMA
+LyTyp02,LYTYP02,WHOLE BLOOD
+LyTyp14,LYTYP14,WHOLE BLOOD
+LyTyp21,LYTYP21,WHOLE BLOOD
+Basophil granulo immature,BM09,Basophil granulo immature
+7-Ethoxyresorufin deethylase,EROD,7-Ethoxyresorufin Deethylase
+FERR,FERR,PLASMA
+Epoxide Hydrolase,EH,LIVER
+Bili-f,BILIF-TI,SERUM
+acid-omega,MCA_O,PLASMA
+Glycodeoxycholic acid,GDCA,PLASMA
+Tauroursodeoxycholic acid,TUDCA,PLASMA
+Muricholic acid-beta,MCAB,PLASMA
+Metamyelocytes,METAMY,WHOLE BLOOD
+Blasts/Leukocytes,BLASTLE,WHOLE BLOOD
+Mg-B,B-MG,URINE
+ImFun06,IMFUN06,WHOLE BLOOD
+Anti-KLH IgM,AKLHM,SERUM
+Hep-Quick,HQUICK,PLASMA
+Hematocrit,HCT,PLASMA
+Gamma Glutamyl Transferase,GGT,SERUM
+Promyelocytes,PROMY,PLASMA
+Plasmodia,PLASMODI,PLASMA
+Bilirubin,BILI,Serum Cat
+Mean Platelet Volume,MPV,WHOLE BLOOD
+Chloride,CL,PLASMA
+Anisocytes,ANISO,WHOLE BLOOD
+Lactate Dehydrogenase,LDH,WHOLE BLOOD
+Triglycerides,TRIG,WHOLE BLOOD
+Alkaline Phosphatase,ALP,WHOLE BLOOD
+Aspartate Aminotransferase,AST,WHOLE BLOOD
+Albumin,ALB,WHOLE BLOOD
+Sodium,SODIUM,Serum Rabbit
+Glucose,GLUC,Serum Rabbit
+Anisocytes,ANISO,Blood smears
+Hypersegmented Cells,HYPSEGCE,Blood smears
+Urea-B,B-UREA,URINE
+ACET,ACET,PCA/TCA
+LyTyp04,LYTYP04,WHOLE BLOOD
+LyTyp05,LYTYP05,WHOLE BLOOD
+Reticulocytes/Erythrocytes,RETIRBC,PLASMA
+PROT*VOL,U-PRT-VO,URINE
+Lipase,LIPASE,PLASMA
+LDL-RD,LDL-RD,PLASMA
+Glycoursodeoxycholic acid,GUDCA,PLASMA
+T3-MON,T3-MON,SERUM
+Activated Partial Thromboplastin Time,APTT,WHOLE BLOOD
+Potassium,K,Serum Mouse
+Cortisol,COR,SERUM
+Osmolality,OSMLTY,PLASMA
+CL*VOL-BW,U-CL-KVO,URINE
+b UPROTQ corrected for CREA,BUPROTQC,URINE
+Corticosterone,CCS_C,Plasma EDTA
+GGT Urine,U-GGT,URINE
